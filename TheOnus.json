@@ -1,16 +1,24 @@
 {
-  "title": "The Onus : The Debt of Fealty",
-  "description": "",
+  "title": "The Onus",
+  "description": "Lariat makes choices while the voices in their head tell them what to do. The comic.",
   "artist": "2xfool",
   "author": "cliffsoverannwn",
   "cover": "https://i.imgur.com/9wGooDX.jpg",
   "chapters": {
+    "0": {
+      "title": "Additional Info",
+      "volume": "0",
+      "last_updated": "1696391893",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/smHwlhS"
+      }
+    },
     "1": {
       "title": "Chapter 1",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1696391648",
       "groups": {
-        "": "/proxy/api/imgur/chapter/EmUILyF"
+        "The Debt of Fealty": "/proxy/api/imgur/chapter/EmUILyF"
       }
     }
   }
